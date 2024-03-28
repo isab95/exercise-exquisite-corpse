@@ -2,4 +2,4 @@
 
 exercise d'utilisation de git et github en gtroupe
 
-##L'orchestre aux instrument magique
+## L'orchestre aux instrument magique
